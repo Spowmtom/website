@@ -1,7 +1,7 @@
 ---
 Author: Moowool
 title: About
-description: About me, contacts and donations
+description: Contacts, donations and gpg keys
 date: '2021-08-17'
 toc: true
 aliases:
@@ -15,7 +15,6 @@ menu:
         pre: user
 ---
 
-## About me
 ## Contacts
 ![icon](https://tabler-icons.io/static/tabler-icons/icons/brand-discord.svg) Discord: Moowool#2857
 
