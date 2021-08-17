@@ -1,4 +1,4 @@
-__*Do not base your website off mine, I have no idea of what I am doing*__
+_*Do not base your website off mine, I do not know what I am doing*_
 
 Link to theme Hugo Theme Stack: https://docs.stack.jimmycai.com/
 
