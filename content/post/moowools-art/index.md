@@ -16,7 +16,9 @@ menu:
         weight: -85
         pre: picture
 ---
-
+## New Art
+![FrogPond](hold.jpg)
+## Archived
 ![Crowfamiliar](ref.jpg)![Nyarthking](moowool.png)
 
 ![DanDude](think.jpg)
@@ -26,3 +28,5 @@ menu:
 ![MegaPinkyena](hug.jpg)![Pompsadoodle](meadow.jpg)![Pompsadoodle](pose.png)
 
 ![Rox Trox](memes.jpg)![Dranyan](sleeping.png)![Rox Trox](eat.gif)![Rioisok](gaming.jpg)
+## Doodles
+![Gingerreyy](chill.jpg)![Gingerreyy](elwiwi.jpg)
